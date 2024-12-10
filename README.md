@@ -23,6 +23,5 @@ O bootstrap utiliza de classes pré-definidas que permitem organizar o conteúdo
 - https://getbootstrap.com/docs/5.3/utilities/borders/#border
 
 #### Display:
-- https://getbootstrap.com/docs/5.3/layout/containers/
-  1. Display: Flex
-    - https://getbootstrap.com/docs/5.3/utilities/flex/
+- https://getbootstrap.com/docs/5.3/layout/containers/ 
+  1. Flex: https://getbootstrap.com/docs/5.3/utilities/flex/
