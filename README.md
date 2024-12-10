@@ -10,5 +10,17 @@ O bootstrap utiliza de classes pré-definidas que permitem organizar o conteúdo
 
 ### Classes Utilizadas no projeto:
 
-| Classe | Função |
-|--------|--------|
+#### Container:
+- https://getbootstrap.com/docs/5.3/layout/containers/
+
+#### Espaçamentos:
+- https://getbootstrap.com/docs/5.3/utilities/spacing/#margin-and-padding
+
+#### Fundo:
+- https://getbootstrap.com/docs/5.3/utilities/background/
+
+#### Borda:
+- https://getbootstrap.com/docs/5.3/utilities/borders/#border
+
+#### Display: Flex
+- https://getbootstrap.com/docs/5.3/utilities/flex/
