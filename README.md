@@ -17,13 +17,13 @@ O bootstrap utiliza de classes pré-definidas que permitem organizar o conteúdo
 - https://getbootstrap.com/docs/5.3/components/navbar/
 
 #### Espaçamentos:
-- https://getbootstrap.com/docs/5.3/utilities/spacing/#margin-and-padding
+- https://getbootstrap.com/docs/5.3/utilities/spacing/
 
 #### Fundo:
 - https://getbootstrap.com/docs/5.3/utilities/background/
 
 #### Borda:
-- https://getbootstrap.com/docs/5.3/utilities/borders/#border
+- https://getbootstrap.com/docs/5.3/utilities/borders/
 
 #### Display:
 - https://getbootstrap.com/docs/5.3/utilities/display/
@@ -34,6 +34,7 @@ O bootstrap utiliza de classes pré-definidas que permitem organizar o conteúdo
 
 #### Texto:
 - https://getbootstrap.com/docs/5.3/utilities/text/
+- https://getbootstrap.com/docs/5.3/utilities/colors/
 
 #### Imagens:
 - https://getbootstrap.com/docs/5.3/content/images/
@@ -46,3 +47,7 @@ O bootstrap utiliza de classes pré-definidas que permitem organizar o conteúdo
 
 #### Cards:
 - https://getbootstrap.com/docs/5.3/components/card/
+
+#### Forms:
+- https://getbootstrap.com/docs/5.3/forms/form-control/
+- https://getbootstrap.com/docs/5.3/forms/input-group/
